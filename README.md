@@ -1,7 +1,7 @@
-#  📚 지수희 CS 스터디 
+#  📚 지은수희 CS 스터디 
 
 ## 👥 스터디원
-[heeheejj](https://github.com/heeheejj), [jiyeon5](https://github.com/jiyeon5), [sujunghwang](https://github.com/sujunghwang)
+[eunji8784](https://github.com/eunji8784), [heeheejj](https://github.com/heeheejj), [jiyeon5](https://github.com/jiyeon5), [sujunghwang](https://github.com/sujunghwang)
 
 ## 🎈 진행 방식
 - 주제별로 공부한 내용을 공유 및 발표하고, 서로 질의응답 하며 공부해온 내용을 보충하는 것을 목표로 합니다.
